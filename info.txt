@@ -1,0 +1,10 @@
+Tugas Project Web Programing
+Nama    : Mutsanna Qoid Al'am
+NRP     : 1151700006
+
+Cara mengunakan :
+1.Pindahkan folder pbw kedalam folder htdocs
+2.Nyalakan localhost (xampp/mamp)
+3.jalankan localhost/pbw
+4.login dengan username = mutsanna
+5.Pasword = root
